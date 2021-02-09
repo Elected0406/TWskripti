@@ -1,17 +1,4 @@
-//var Porcentual_de_Coleta  = [400000,183000,91515,61015] // 23h
-//var Porcentual_de_Coleta  = [360000,151450,75770,50490] // 22h
-//var Porcentual_de_Coleta  = [273000,113789,56910,37920] // 15h
-//var Porcentual_de_Coleta  = [255000,99900,50800, 34100] // 14h
-//var Porcentual_de_Coleta  = [225000,84600,42800, 28240] // 12h
-//var Porcentual_de_Coleta  = [200000,79000,39400, 26240] // 11h
-//var Porcentual_de_Coleta  = [135000,54000,27000,18000] // 8h
-//var Porcentual_de_Coleta  = [170000,68000,34000, 22660] // 10h
-//var Porcentual_de_Coleta  = [85000,34000,17000, 11330] // 5h
-var Porcentual_de_Coleta  = [24840,9970,4999, 3330] // 3h
-//var Porcentual_de_Coleta  = [17500,7000,3490, 2330] // 2h
-//var Porcentual_de_Coleta  = [10000,4000,2000, 1330] // 1:30h
-//var Porcentual_de_Coleta  = [4200,1700,870,580] // 1:00h
-//var Porcentual_de_Coleta  = [3000,1000,500, 430] // 5h
+var Porcentual_de_Coleta  = [24840,9970,4999, 3330]
 
 
 
