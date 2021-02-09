@@ -6,8 +6,8 @@
 //var Porcentual_de_Coleta  = [200000,79000,39400, 26240] // 11h
 //var Porcentual_de_Coleta  = [135000,54000,27000,18000] // 8h
 //var Porcentual_de_Coleta  = [170000,68000,34000, 22660] // 10h
-//var Porcentual_de_Coleta  = [85000,34000,17000, 11330] // 5h
-var Porcentual_de_Coleta  = [24840,9970,4999, 3330] // 3h
+var Porcentual_de_Coleta  = [85000,34000,17000, 11330] // 5h
+//var Porcentual_de_Coleta  = [24840,9970,4999, 3330] // 3h
 //var Porcentual_de_Coleta  = [17500,7000,3490, 2330] // 2h
 //var Porcentual_de_Coleta  = [10000,4000,2000, 1330] // 1:30h
 //var Porcentual_de_Coleta  = [4200,1700,870,580] // 1:00h
