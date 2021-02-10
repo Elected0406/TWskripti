@@ -13,7 +13,7 @@ var naciati = 2;
 var Yemkost_yaceiki = 3;
 var INPUT = 4;
 
-var Unidades_Coletando = [
+var yedinitsy_sbora = [
     [kopeyshchik, "a.units-entry-all[data-unit='spear']",true,25,"input.unitsInput[name='spear']"],
     [mechnik, "a.units-entry-all[data-unit='sword']",true,15,"input.unitsInput[name='sword']"],
     [toporshchik, "a.units-entry-all[data-unit='axe']",true,10,"input.unitsInput[name='axe']"],
@@ -22,7 +22,6 @@ var Unidades_Coletando = [
     [Luchnik_na_kone , "a.units-entry-all[data-unit='marcher']",true,50,"input.unitsInput[name='marcher']"],
     [tyazhelaya_kavaleriya, "a.units-entry-all[data-unit='heavy']",true,50,"input.unitsInput[name='heavy']"],
 ];
-unidades
 
 function intellekt_mekhanizm(to){
     try{
